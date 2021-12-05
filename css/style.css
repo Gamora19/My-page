@@ -1,0 +1,202 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: skyblue;
+  background-attachment: fixed;
+  padding: 5px 70px 0px 70px;
+}
+
+.logo{
+  border: 0.8px solid rgb(197, 23, 23);
+  background-color: #333c87;
+  
+}
+
+.titulo1{
+  display: inline-flex;
+  text-align: center;
+  position: absolute;
+  bottom: 600px;
+  margin-left: 0.3cm;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 35px;
+  color: rgb(8, 8, 8);
+  top: 22px;
+}
+
+.menu{
+  display: inline-flex;
+  list-style: none;
+  position: relative;
+  left: 580px;
+  height: 15px;
+  
+  
+}
+
+.barra{
+  padding: 0px 20px 0px 40px;
+  
+}
+
+.barra a{
+  text-decoration: none;
+  color: rgb(15, 13, 13);
+  font-family: 'Bebas Neue', cursive;
+  font-size: 23px;
+  
+}
+
+.barra:hover{
+  background-color: #f5f5f53a;
+}
+
+
+.banner img{
+ padding: 30px 55px 0px 122px;
+ height: 250px;
+ width: 900px;
+}
+
+
+
+.containerc{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 90px;
+  margin-top: 1cm;
+  
+}
+
+.containerc .circle img{
+  overflow: hidden;
+  width: 80px;
+  height: 75px;
+  border-radius: 50%;
+  
+  
+}
+
+.containerc .circle p{
+  color: rgb(7, 6, 6);
+
+}
+
+.containerc .circle{
+  width: 250px;
+  height: 300px;
+  
+}
+
+.circle .pig2:hover{
+  opacity: 0;
+}
+
+.pig2{
+  position: absolute;
+  left: 7.95cm;
+}
+
+.circle .kik2:hover{
+  opacity: 0;
+}
+
+.kik2{
+  position: absolute;
+  left: 14.55cm;
+}
+
+
+.circle .cow2:hover{
+  opacity: 0;
+}
+
+.circle .cow2{
+  position: absolute;
+  left: 21.17cm;
+}
+
+.titulo2{
+  color: rgb(7, 6, 6);
+  font-family: 'Bebas Neue', cursive;
+  font-size: 45px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 150px;
+}
+
+
+.entorno{
+  list-style: none;
+  display: inline-flex;
+  margin: 0;
+  padding: 0;
+}
+
+.entorno li{
+  padding: 2px 60px 2px 95px;
+
+}
+
+.entorno p{
+  color: rgb(15, 14, 14);
+  text-align: justify;
+}
+
+.entorno2{
+  list-style: none;
+  display: inline-flex;
+  margin: 0;
+  padding: 0;
+}
+
+.entorno2 li{
+  padding: 50px 60px 2px 90px;
+}
+
+.entorno2 p{
+  color: rgb(10, 10, 10);
+  text-align: justify;
+}
+
+.video{
+  padding: 20px 90px 0px 320px;
+ 
+}
+
+.titulo3{
+  color: rgb(10, 10, 10);
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  font-size: 45px;
+}
+
+footer{
+  background-color: #1b1b44;
+  margin-top: 7cm;
+  
+}
+
+.contenedor{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
+.contact p{
+  color: rgb(12, 11, 11);
+  font-size: 20px;
+  font-family: 'Bebas Neue', cursive;
+
+}
+
+.contact h4{
+  color: rgb(15, 15, 15);
+}
+
+.redes p{
+  color: rgb(27, 25, 25);
+  font-family: 'Bebas Neue', cursive;
+  font-size: 20px;
+}
